@@ -7,7 +7,6 @@ Web Developer
 Front-End -> React.js, Vue.js Back-End -> Node.js
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [supanimit.work@gmail.com](mailto:supanimit.work@gmail.com)
 
 ### Skills
 
